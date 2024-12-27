@@ -1,6 +1,4 @@
 # Power-BI-Global-Terrorism
-Here’s a suggested structure for a GitHub `README.md` file for your Global Terrorism Dashboard project:
-
 ---
 
 # Global Terrorism Dashboard Project
