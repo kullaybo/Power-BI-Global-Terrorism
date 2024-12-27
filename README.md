@@ -47,7 +47,7 @@ This project helped me:
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Preview](link-to-image-or-screenshot)  
+![Dashboard Preview]([link-to-image-or-screenshot](https://raw.githubusercontent.com/kullaybo/Power-BI-Global-Terrorism/refs/heads/main/GTD.png))  
 *Include a screenshot or GIF of the dashboard in action.*
 
 ---
