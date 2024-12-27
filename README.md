@@ -48,7 +48,7 @@ This project helped me:
 
 ## 📸 Dashboard Preview
 ![Dashboard Preview](https://raw.githubusercontent.com/kullaybo/Power-BI-Global-Terrorism/refs/heads/main/GTD.png)
-*Include a screenshot or GIF of the dashboard in action.*
+
 
 ---
 
@@ -68,6 +68,3 @@ This project helped me:
 ## 📌 Keywords and Tags
 `Power BI` `Data Visualization` `Global Terrorism` `Data Engineering` `Dashboard` `InternCareer` `ETL` `Analytics` `Data Insights`
 
----
-
-Let me know if you need further customization or additional sections!
